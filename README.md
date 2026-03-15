@@ -28,12 +28,11 @@ If you find this survey or the organized repository helpful for your research, p
 **BibTeX:**
 ```bibtex
 @article{Pintore:2026:SDL,
-  title={State-of-the-art in deep learning approaches for automatic single-panorama indoor modeling and exploration,
+  title={State-of-the-art in deep learning approaches for automatic single-panorama indoor modeling and exploration},
   author={Giovanni Pintore and Marco Agus and Jens Schneider and Enrico Gobbetti},
   journal={Computer Graphics Forum},
   volume={45},
   number={2},
-  pages={1},
   year={2026},
   doi={10.1111/cgf.70396}
 }
