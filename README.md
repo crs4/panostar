@@ -346,7 +346,7 @@ Structured Indoor Environments," *Comput. Graph. Forum*, 2020, doi: [10.1111/cgf
 <br>
 
 \[25\] G. Pintore, M. Agus, E. Almansa, J. Schneider, and E. Gobbetti, "SliceNet: deep dense depth estimation from a single
-indoor panorama using a slice-based representation," *Proc. CVPR*, 2021.
+indoor panorama using a slice-based representation," *Proc. CVPR*, 2021, doi: [10.1109/CVPR46437.2021.01137](https://doi.org/10.1109/CVPR46437.2021.01137).
 <br>
 
 \[26\] G. Schindler and F. Dellaert, "Atlanta world: an expectation maximization
@@ -503,7 +503,7 @@ Structured Indoor Environments," *Comput. Graph. Forum*, 2020, doi: [10.1111/cgf
 <br>
 
 \[35\] G. Pintore, M. Agus, E. Almansa, J. Schneider, and E. Gobbetti, "SliceNet: deep dense depth estimation from a single
-indoor panorama using a slice-based representation," *Proc. CVPR*, 2021.
+indoor panorama using a slice-based representation," *Proc. CVPR*, 2021, doi: [10.1109/CVPR46437.2021.01137](https://doi.org/10.1109/CVPR46437.2021.01137).
 <br>
 
 \[36\] M. Rey-Area, M. Yuan, and C. Richardt, "360MonoDepth: High-Resolution 360° Monocular
@@ -650,7 +650,7 @@ from a single image," *Proc. CVPR*, 2015, doi: [10.1109/CVPR.2015.7299152](https
 <br>
 
 \[20\] G. Pintore, M. Agus, E. Almansa, J. Schneider, and E. Gobbetti, "SliceNet: deep dense depth estimation from a single
-indoor panorama using a slice-based representation," *Proc. CVPR*, 2021.
+indoor panorama using a slice-based representation," *Proc. CVPR*, 2021, doi: [10.1109/CVPR46437.2021.01137](https://doi.org/10.1109/CVPR46437.2021.01137).
 <br>
 
 \[21\] G. Pintore, M. Agus, A. Signoroni, and E. Gobbetti, "DDD: Deep indoor panoramic Depth estimation with
