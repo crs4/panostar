@@ -1,8 +1,6 @@
 <img src="assets/logo.png" align="right" width="180" alt="Project Logo">
 
-# State-of-the-art in deep learning approaches for automatic single-panorama indoor modeling and exploration
-
-<br clear="right"/>
+# State-of-the-art in deep learning approaches for automatic single-panorama indoor modeling and exploration [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ### Authors
 
@@ -11,10 +9,12 @@
 * **Jens Schneider** *HBKU, Qatar* [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0546--2816-green)](https://orcid.org/0000-0002-0546-2816)
 * **Enrico Gobbetti** *CRS4, Italy* [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0831--2458-green)](https://orcid.org/0000-0003-0831-2458)
 
-### Abstract
-A single surround-view panoramic image provides complete coverage of the environment visible from a single viewpoint and inherently supports dynamic exploration, especially when viewed through a head-mounted display. For these reasons, single or linked 360-degree panoramas have become a widely adopted modality for indoor scene acquisition and virtual tour creation. Despite their popularity, panoramas present inherent limitations, as they only statically represent the captured scene, do not provide explicit 3D architectural structure and geometry, and exhibit minimal parallax due to their single-viewpoint nature, which limits their application capabilities or requires significant modeling efforts to generate missing data. In our survey, we provided an up-to-date integrative overview of recent techniques designed to overcome these challenges, bringing together complementary perspectives from machine learning, computer vision, and computer graphics. 
+<br clear="right"/>
 
-> **Note:** This repository accompanies our survey published in Computer Graphics Forum and presented at Eurographics 2026. It provides direct links to relevant works, organized by topic. We will strive to keep this repository updated also after survey publication.
+### Abstract
+A single surround-view panoramic image provides complete coverage of the environment visible from a single viewpoint and inherently supports dynamic exploration, especially when viewed through a head-mounted display. For these reasons, single or linked 360-degree panoramas have become a widely adopted modality for indoor scene acquisition and virtual tour creation. Despite their popularity, panoramas present inherent limitations: they statically represent the captured scene, do not provide an explicit 3D architectural structure or geometry, and exhibit minimal parallax due to their single viewpoint. These limitations restrict their applicability and often require significant modeling efforts to generate missing data. In our survey, we provided an up-to-date, integrative overview of recent techniques to address these challenges, bringing together complementary perspectives from machine learning, computer vision, and computer graphics. 
+
+> **Note:** This repository accompanies our survey published in Computer Graphics Forum and presented at [Eurographics 2026](https://eg2026.github.io/). It provides direct links to relevant works, organized by topic. We will strive to keep this repository updated also after the survey publication.
 
 ---
 
@@ -43,7 +43,7 @@ If you find this survey or the organized repository helpful for your research, p
 ### Acknowledgments
 
 This work was supported by NPRP-S 14th Cycle grant 0403-210132 AIN2 from the Qatar National Research
-Fund (a member of Qatar Foundation) and by Sardinian Regional Authorities under project XDATA (Art9 LR 20/2015).
+Fund (a member of Qatar Foundation) and by the Sardinian Regional Authorities under the project XDATA (Art9 LR 20/2015).
 
 ---
 
@@ -249,7 +249,7 @@ Automatic VR Image Upright Adjustment," *Proc. IEEE VR*, 2019, doi: [10.1109/VR.
 <br>
 
 \[3\] G. Pintore, M. Agus, E. Almansa, J. Schneider, and E. Gobbetti, "SliceNet: deep dense depth estimation from a single
-indoor panorama using a slice-based representation," *Proc. CVPR*, 2021.
+indoor panorama using a slice-based representation," *Proc. CVPR*, 2021, doi: [10.1109/CVPR46437.2021.01137](https://doi.org/10.1109/CVPR46437.2021.01137).
 <br>
 
 \[4\] W. Xian, Z. Li, M. Fisher, J. Eisenmann, E. Shechtman, and N. Snavely, "UprightNet: geometry-aware camera orientation
