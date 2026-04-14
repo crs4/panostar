@@ -14,7 +14,7 @@
 ### Abstract
 A single surround-view panoramic image provides complete coverage of the environment visible from a single viewpoint and inherently supports dynamic exploration, especially when viewed through a head-mounted display. For these reasons, single or linked 360-degree panoramas have become a widely adopted modality for indoor scene acquisition and virtual tour creation. Despite their popularity, panoramas present inherent limitations: they statically represent the captured scene, do not provide an explicit 3D architectural structure or geometry, and exhibit minimal parallax due to their single viewpoint. These limitations restrict their applicability and often require significant modeling efforts to generate missing data. In our survey, we provided an up-to-date, integrative overview of recent techniques to address these challenges, bringing together complementary perspectives from machine learning, computer vision, and computer graphics. 
 
-> **Note:** This repository accompanies our survey published in Computer Graphics Forum and presented at [Eurographics 2026](https://eg2026.github.io/). It provides direct links to relevant works, organized by topic. We will strive to keep this repository updated also after the survey publication.
+> **Note:** This repository accompanies our survey published in [Computer Graphics](https://doi.org/10.1111/cgf.70396) Forum and presented at [Eurographics 2026](https://eg2026.github.io/). It provides direct links to relevant works, organized by topic. We will strive to keep this repository updated also after the survey publication.
 
 ---
 
@@ -23,7 +23,7 @@ A single surround-view panoramic image provides complete coverage of the environ
 If you find this survey or the organized repository helpful for your research, please cite our work as follows:
 
 **APA:**
-> Pintore, G., Agus, M., Schneider, J., & Gobbetti, E. (2026). State-of-the-art in deep learning approaches for automatic single-panorama indoor modeling and exploration. *Computer Graphics Forum*, 45(2), doi: 10.1111/cgf.70396
+> Pintore, G., Agus, M., Schneider, J., & Gobbetti, E. (2026). State-of-the-art in deep learning approaches for automatic single-panorama indoor modeling and exploration. *Computer Graphics Forum*, 45(2), doi: [10.1111/cgf.70396](https://doi.org/10.1111/cgf.70396)
 
 **BibTeX:**
 ```bibtex
